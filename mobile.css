@@ -59,25 +59,25 @@ html,body {
     }
     a{
     cursor: pointer;
-    color:#ffcc33;
+    color:var(--white);
     text-decoration: none;
     transition: .5s;
     }
     a:active{
       cursor: pointer;
       text-decoration: none;
-      color:#ffcc33;
+      color:var(--white);
       transition: .5s;
       }
     a:hover{
     cursor: pointer;
     text-decoration: none;
-    color:#ffcc33;
+    color:var(--white);
     transition: .5s;
     }
     a:after{
       cursor: pointer;
-      color:#ffcc33;
+      color:var(--white);
       transition: .5s;
     }
     i{
@@ -189,7 +189,7 @@ html,body {
           border-radius: 1rem;
           border-color: rgba(255,255,255,.025);
           position: relative;
-          color:#ffcc33;
+          color:var(--white);
           background-image: url(./ruide.png);
         }        
                     
