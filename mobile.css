@@ -29,7 +29,7 @@ html,body {
     }
     p{      
       font-family: 'Libre Baskerville', serif;
-      font-size: 1.2rem;
+      font-size: 1.942rem;
       transition: .95s;
       line-height: 2.2rem;
       }
@@ -88,8 +88,8 @@ html,body {
       text-decoration: none;
       list-style: none;
       line-height: 2.2rem;
-      margin: .025rem;
-      padding:.025rem;
+      margin: .015rem;
+      padding:.015rem;
       }
       
     
